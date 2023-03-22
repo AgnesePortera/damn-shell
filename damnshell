@@ -1,0 +1,6 @@
+#!/bin/bash
+echo -n '$'
+while read line; do
+echo "I'm sorry, I cannot do that!"
+echo -n '$'
+done
