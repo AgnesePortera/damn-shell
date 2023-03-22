@@ -19,5 +19,5 @@ In theory a Linux system can treat any program as a valid login shell, if it is 
 Using superuser privileges, your own shell can be installed. 
 
 In this example I'm creating a simple damn shell that reads any command and reply.
-This custom shell is intentionally silly, but it demonstrates that also other program can be a legitimate shell.
+This custom shell is intentionally silly, but it demonstrates that also other programs can be a legitimate shell.
 
